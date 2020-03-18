@@ -98,4 +98,3 @@ class Dog
   
 end
 
-Dog.find_or_create_by(name:"hi", breed: "yo")
